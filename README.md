@@ -1,2 +1,3 @@
-# AppleScripts
-A few handy, yet simple scripts (written in AppleScript) for personal use.
+# README #
+
+This repository is for sharing some Applescripts I wrote for automating small tasks that make life a little bit easier. These scripts run via the Applescript editor (or via command line "osascript fileNameHere.scpt"). There are currently two scripts DesktopSetup.scpt & TrafficWeather.scpt. Both scripts are written from the perspective of simulating user inputs via a keyboard and mouse (mostly keyboard shortcuts & navigating). These were written during my leisure time and can probably use some organizing and/or optimizations.
